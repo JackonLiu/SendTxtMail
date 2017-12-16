@@ -1,0 +1,6 @@
+mail_host=smtp.sohu.com
+mail_port=25
+mail_username=ppag905728bc33dd@sohu.com
+mail_password=837216
+mail_smtp_timeout=25000
+mail_to=ppag905728bc33dd@sohu.com
